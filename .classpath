@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="lib" path="D:/workspace/libraryManager/mysql-connector-java-3.1.12-bin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/workspace/libraryManager/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/libraryManager/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/libraryManager/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/libraryManager/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/libraryManager/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/libraryManager/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/libraryManager/ezmorph-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/libraryManager/jxl.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
